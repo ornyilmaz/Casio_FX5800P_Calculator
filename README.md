@@ -4,9 +4,7 @@ Komplex Matris Çözüm Programı ( Hesap makinesine yazılacak yazılımı içe
  
 ## Açıklamalar...
  
--- Aşağıdaki program Casio fx-5800P hesap makineleri için complex matris 
- 
-	   çözüm programıdır.
+-- Aşağıdaki program Casio fx-5800P hesap makineleri için complex matris çözüm programıdır.
  
 -- Programda değerler A.X=B matris formatında istenir.
  
